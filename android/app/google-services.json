@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969762260473",
+    "project_id": "js-manutencao",
+    "storage_bucket": "js-manutencao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969762260473:android:2abb579457bcf7b950a928",
+        "android_client_info": {
+          "package_name": "com.mycompany.retaguardav2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTdM2uJ_nbDbPzHuN0Fi7B2IIHIdPDVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
